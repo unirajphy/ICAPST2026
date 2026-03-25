@@ -1,6 +1,6 @@
-23 march 2026
-Add in advisory committee
-After Prof. Kedar add "Shri Deepak Gadhia
+* 23 march 2026
+- Add in advisory committee
+- After Prof. Kedar add "Shri Deepak Gadhia
 Chairman & Managing Director, Sunrise CSP India, Gujrat"
 His photo "deepaksir"
 After Prof. Ravi add "Prof. Ranjan Das,
@@ -27,3 +27,6 @@ The city has excellent rail connectivity, with two major railway stations—Gand
 Road Connectivity
 Jaipur is easily accessible by road, with regular bus services operating from nearby cities including Delhi, Agra, and Kota."
 
+* 25 March
+1. First change..
+  - uadasdas
